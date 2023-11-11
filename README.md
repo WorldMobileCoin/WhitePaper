@@ -1,6 +1,8 @@
 # WhitePaper
-World Mobile Coin WhitePaper V1
-https://www.worldmobilecoin.com/index.html#whitepaper
+World Mobile Chain White Paper from 2021
+https://worldmobiletoken.com/WhitePaper.pdf
 
-Alternative Source:
-1. https://drive.google.com/open?id=0B0CwvmmFEkyMOUp4SUI2MjdfTTQ
+Alternative Newer Sources:
+https://twitter.com/whitepaper_io
+Relevant alternative
+https://whitepaper.io/document/0/world-mobile-token-whitepaper
